@@ -21,3 +21,14 @@ func (d deck) print(){
 		fmt.Println(i,card)
 	}
 }
+
+
+//main.go
+// package main
+
+// func main(){
+// 	cards := newDeck()
+
+// 	cards.print()
+	
+// }
